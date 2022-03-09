@@ -1,0 +1,17 @@
+{
+  "name": "roman-numerals-decoder",
+  "version": "1.0.0",
+  "description": "Create a function that takes a Roman numeral as its argument and returns its value as a numeric decimal integer. You don't need to validate the form of the Roman numeral.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "author": "Alejandro Munoz",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "type":"commonjs"
+
+}
